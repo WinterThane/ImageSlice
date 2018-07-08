@@ -1,14 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace ImageSlice
+﻿namespace ImageSlice
 {
-    public class Config
+    public static class Config
     {
-        public static readonly int WindowWidth = 1280;
-        public static readonly int WindowHeight = 720;
+        public static readonly int SCREEN_WIDTH = 1280;
+        public static readonly int SCREEN_HEIGHT = 720;
+
+        public const float PLAYER_SPEED = 5.0f;
     }
 }
