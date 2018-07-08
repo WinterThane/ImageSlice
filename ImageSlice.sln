@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageSlice", "ImageSlice\ImageSlice.csproj", "{BA66B9DC-3344-41E9-B3EA-5431F3E8C3D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA66B9DC-3344-41E9-B3EA-5431F3E8C3D2}.Debug|x86.ActiveCfg = Debug|x86
+		{BA66B9DC-3344-41E9-B3EA-5431F3E8C3D2}.Debug|x86.Build.0 = Debug|x86
+		{BA66B9DC-3344-41E9-B3EA-5431F3E8C3D2}.Release|x86.ActiveCfg = Release|x86
+		{BA66B9DC-3344-41E9-B3EA-5431F3E8C3D2}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3CC7422A-FE56-4582-B0C9-49E01D2143B0}
+	EndGlobalSection
+EndGlobal
